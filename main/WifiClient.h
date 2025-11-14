@@ -7,7 +7,7 @@
 
 const int CONNECTED_BIT = BIT0;
 
-#define PASSPHARSE "bridge-24"
+#define PASSPHARSE "bridge-1966"
 #define TCPServerIP "192.168.4.1"
 
 class WifiClient {
